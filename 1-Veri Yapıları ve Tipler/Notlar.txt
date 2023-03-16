@@ -1,0 +1,3 @@
+Pythonda set oluşturmak için süslü parantezler kullanırız.
+Tuple liste elemanları, parantez ile oluşturulur. Ayrıca parantez kullanmadan da tuple listesi oluşturmuş oluruz ancak okunabilirlik açısından parantez kullanabiliriz.
+Dictionary elemanlarının value bilgisine köşeli parantezler içerisine yazdığımız key ile ulaşabiliriz.
